@@ -1,3 +1,0 @@
-C:/Users/Student s1016/CLionProjects/Dijkstra/cmake-build-debug/CMakeFiles/Dijkstra.dir
-C:/Users/Student s1016/CLionProjects/Dijkstra/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Student s1016/CLionProjects/Dijkstra/cmake-build-debug/CMakeFiles/rebuild_cache.dir
