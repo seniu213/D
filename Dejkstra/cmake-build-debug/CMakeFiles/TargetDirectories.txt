@@ -1,0 +1,3 @@
+C:/Users/seniu/CLionProjects/Dejkstra/cmake-build-debug/CMakeFiles/Dejkstra.dir
+C:/Users/seniu/CLionProjects/Dejkstra/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/seniu/CLionProjects/Dejkstra/cmake-build-debug/CMakeFiles/rebuild_cache.dir

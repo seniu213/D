@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/seniu/CLionProjects/Dejkstra/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Dejkstra.dir\\main.cpp.obj -c C:\\Users\\seniu\\CLionProjects\\Dejkstra\\main.cpp",
+  "file": "C:/Users/seniu/CLionProjects/Dejkstra/main.cpp",
+  "output": "C:/Users/seniu/CLionProjects/Dejkstra/cmake-build-debug/CMakeFiles/Dejkstra.dir/main.cpp.obj"
+}
+]
